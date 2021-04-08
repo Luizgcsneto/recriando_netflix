@@ -9,9 +9,16 @@
     box-sizing: border-box;
 }
 body{
-    
+    background: var(--preto);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header .container{
     
+}
+
+header .logo {
+    color: var(--vermelho);
+    font-family: 'Arial Black';
+    font-size: 40px;
 }
