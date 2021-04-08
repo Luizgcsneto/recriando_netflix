@@ -14,7 +14,7 @@ body{
 }
 
 header .container{
-    
+    display: flex;
 }
 
 header .logo {
