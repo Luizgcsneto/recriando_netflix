@@ -11,6 +11,7 @@
 body{
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 header .container{
@@ -35,4 +36,12 @@ header nav a{
 
 header nav a:hover{
     color: #fff;
+}
+
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,0.50)100%), url('/img/capa-grey.jpg');
+
+    height: 400px;
+    background-size: cover;
 }
